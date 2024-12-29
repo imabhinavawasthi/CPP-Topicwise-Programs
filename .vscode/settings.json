@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "vector": "cpp"
+        "vector": "cpp",
+        "exception": "cpp",
+        "ios": "cpp"
     }
 }
