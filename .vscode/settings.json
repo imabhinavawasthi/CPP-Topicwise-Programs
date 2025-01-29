@@ -2,6 +2,7 @@
     "files.associations": {
         "vector": "cpp",
         "exception": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "random": "cpp"
     }
 }
